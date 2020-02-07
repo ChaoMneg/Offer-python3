@@ -36,3 +36,6 @@
 
 ## 栈和队列：
 1. [用两个栈实现队列](https://github.com/ChaoMneg/Offer-python3/blob/master/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/Stack2Queue.py)  
+
+## 查找和排序：
+1. [用两个栈实现队列]() 
