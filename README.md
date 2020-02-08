@@ -42,3 +42,4 @@
 
 ## 递归和循环：
 1. [递归--斐波那契数列](https://github.com/ChaoMneg/Offer-python3/blob/master/%E9%80%92%E5%BD%92%E5%92%8C%E5%BE%AA%E7%8E%AF/Rec_Fibonacci.py) 
+2. [递归--青蛙跳台阶](https://github.com/ChaoMneg/Offer-python3/blob/master/%E9%80%92%E5%BD%92%E5%92%8C%E5%BE%AA%E7%8E%AF/Rec_JumpFloor.py) 
