@@ -45,3 +45,5 @@
 2. [递归--青蛙跳台阶](https://github.com/ChaoMneg/Offer-python3/blob/master/%E9%80%92%E5%BD%92%E5%92%8C%E5%BE%AA%E7%8E%AF/Rec_JumpFloor.py) 
 3. [贪心--青蛙跳台阶Ⅱ](https://github.com/ChaoMneg/Offer-python3/blob/master/%E9%80%92%E5%BD%92%E5%92%8C%E5%BE%AA%E7%8E%AF/Rec_JumpFloorII.py) 
 4. [递归--矩形覆盖](https://github.com/ChaoMneg/Offer-python3/blob/master/%E9%80%92%E5%BD%92%E5%92%8C%E5%BE%AA%E7%8E%AF/Rec_rectCover.py) 
+## 位运算：
+1. [二进制中1的个数](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/Bit_NumberOf1.py) 
