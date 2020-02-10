@@ -47,3 +47,5 @@
 4. [递归--矩形覆盖](https://github.com/ChaoMneg/Offer-python3/blob/master/%E9%80%92%E5%BD%92%E5%92%8C%E5%BE%AA%E7%8E%AF/Rec_rectCover.py) 
 ## 位运算：
 1. [二进制中1的个数](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/Bit_NumberOf1.py) 
+## 代码的完整性：
+1. [数值的整数次方](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/Bit_NumberOf1.py) 
