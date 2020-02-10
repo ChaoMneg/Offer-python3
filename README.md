@@ -48,4 +48,4 @@
 ## 位运算：
 1. [二进制中1的个数](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/Bit_NumberOf1.py) 
 ## 代码的完整性：
-1. [数值的整数次方](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/Bit_NumberOf1.py) 
+1. [数值的整数次方](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BB%A3%E7%A0%81%E7%9A%84%E5%AE%8C%E6%95%B4%E6%80%A7/Num_Power.py) 
