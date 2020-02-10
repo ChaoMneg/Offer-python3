@@ -6,6 +6,7 @@
 2. [数组中重复的数字](https://github.com/ChaoMneg/Offer-python3/blob/master/%E6%95%B0%E7%BB%84/Array_duplicate_numbers.py)  
 3. [构建乘积数组](https://github.com/ChaoMneg/Offer-python3/blob/master/%E6%95%B0%E7%BB%84/Array_multiply.py)  
 4. [滑动窗口的最大值](https://github.com/ChaoMneg/Offer-python3/blob/master/%E6%95%B0%E7%BB%84/Array_maxInWindows.py)  
+5. [调整数组顺序使奇数位于偶数前面](https://github.com/ChaoMneg/Offer-python3/blob/master/%E6%95%B0%E7%BB%84/Array_ReOrderArray.py)  
 
 ## 字符串：  
 1. [替换空格](https://github.com/ChaoMneg/Offer-python3/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/String_R_Null.py)  
