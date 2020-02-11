@@ -1,5 +1,5 @@
 # 剑指Offer-python3
-剑指Offer算法python3实现，按牛客网分组，已通过测试
+剑指Offer算法python3实现，按牛客网分组，已通过测试  
 ★：暂时未搞明白的题
 
 ## 数组：  
