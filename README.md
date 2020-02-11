@@ -35,6 +35,7 @@
 08. [从上往下打印二叉树](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_PTopToBottom.py)  
 09. [把二叉树打印成多行](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_PrintLine.py)  
 10. [按之字形顺序打印二叉树](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_Print.py)  
+11. [二叉搜索树的后序遍历序列](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_SquenceOfBST.py)  
 
 ## 栈和队列：
 01. [用两个栈实现队列](https://github.com/ChaoMneg/Offer-python3/blob/master/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/Stack2Queue.py)  
