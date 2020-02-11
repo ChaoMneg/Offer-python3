@@ -33,7 +33,7 @@
 6. [把二叉树打印成多行](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_PrintLine.py)  
 7. [重建二叉树](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_ReConstructBinary.py)  
 8. [序列化二叉树](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_Serialize.py)  
-9. [树的子结构](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_Subtree.py) 
+9. [树的子结构](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_Subtree.py)  
 10.[从上往下打印二叉树](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_PTopToBottom.py)  
 
 ## 栈和队列：
