@@ -29,12 +29,12 @@
 02. [二叉树的下一个结点](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_GetNext.py)  
 03. [二叉搜索树的第k个结点](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_KthNode.py)  
 04. [二叉树的镜像](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_Mirror.py)  
-05. [按之字形顺序打印二叉树](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_Print.py)  
-06. [把二叉树打印成多行](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_PrintLine.py)  
-07. [重建二叉树](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_ReConstructBinary.py)  
-08. [序列化二叉树](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_Serialize.py)  
-09. [树的子结构](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_Subtree.py)  
-10. [从上往下打印二叉树](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_PTopToBottom.py)  
+05. [重建二叉树](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_ReConstructBinary.py)  
+06. [序列化二叉树](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_Serialize.py)  
+07. [树的子结构](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_Subtree.py)  
+08. [从上往下打印二叉树](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_PTopToBottom.py)  
+09. [把二叉树打印成多行](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_PrintLine.py)  
+10. [按之字形顺序打印二叉树](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_Print.py)  
 
 ## 栈和队列：
 01. [用两个栈实现队列](https://github.com/ChaoMneg/Offer-python3/blob/master/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/Stack2Queue.py)  
