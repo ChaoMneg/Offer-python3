@@ -8,6 +8,7 @@
 03. [构建乘积数组](https://github.com/ChaoMneg/Offer-python3/blob/master/%E6%95%B0%E7%BB%84/Array_multiply.py)  
 04. [滑动窗口的最大值](https://github.com/ChaoMneg/Offer-python3/blob/master/%E6%95%B0%E7%BB%84/Array_maxInWindows.py)  
 05. [调整数组顺序使奇数位于偶数前面](https://github.com/ChaoMneg/Offer-python3/blob/master/%E6%95%B0%E7%BB%84/Array_ReOrderArray.py)  
+06. [数组中出现次数超过一半的数字](https://github.com/ChaoMneg/Offer-python3/blob/master/%E6%95%B0%E7%BB%84/Arrray_NumMoreThan.py)  
 
 ## 字符串：  
 01. [替换空格](https://github.com/ChaoMneg/Offer-python3/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/String_R_Null.py)  
