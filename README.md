@@ -12,6 +12,7 @@
 07. [最小的K个数★](https://github.com/ChaoMneg/Offer-python3/blob/master/%E6%95%B0%E7%BB%84/Array_KLeastNum.py)  
 08. [连续子数组的最大和](https://github.com/ChaoMneg/Offer-python3/blob/master/%E6%95%B0%E7%BB%84/Array_GreatestSum.py)  
 09. [把数组排成最小的数](https://github.com/ChaoMneg/Offer-python3/blob/master/%E6%95%B0%E7%BB%84/Array_PrintMinNumber.py)  
+10. [数组中只出现一次的数字](https://github.com/ChaoMneg/Offer-python3/blob/master/%E6%95%B0%E7%BB%84/Array_NumsOne.py)  
 
 ## 字符串：  
 01. [替换空格](https://github.com/ChaoMneg/Offer-python3/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/String_R_Null.py)  
