@@ -53,6 +53,7 @@
 ## 查找和排序：
 01. [旋转数组的最小数字](https://github.com/ChaoMneg/Offer-python3/blob/master/%E6%9F%A5%E6%89%BE%E5%92%8C%E6%8E%92%E5%BA%8F/Search_minInRotateArray.py) 
 02. [从1-n整数中1出现的次数★](https://github.com/ChaoMneg/Offer-python3/blob/master/%E6%9F%A5%E6%89%BE%E5%92%8C%E6%8E%92%E5%BA%8F/Search_NumberOf1.py) 
+03. [丑数](https://github.com/ChaoMneg/Offer-python3/blob/master/%E6%9F%A5%E6%89%BE%E5%92%8C%E6%8E%92%E5%BA%8F/Search_UglyNumber.py) 
 
 ## 递归和循环：
 01. [递归--斐波那契数列](https://github.com/ChaoMneg/Offer-python3/blob/master/%E9%80%92%E5%BD%92%E5%92%8C%E5%BE%AA%E7%8E%AF/Rec_Fibonacci.py) 
