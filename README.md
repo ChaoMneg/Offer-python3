@@ -47,6 +47,7 @@
 11. [二叉搜索树的后序遍历序列](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_SquenceOfBST.py)  
 12. [二叉树中和为某一值的路径](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_FindPath.py)  
 13. [二叉搜索树与双向链表★](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_Convert.py)  
+14. [二叉树的深度](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_TreeDepth.py)  
 
 ## 栈和队列：
 01. [用两个栈实现队列](https://github.com/ChaoMneg/Offer-python3/blob/master/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/Stack2Queue.py)  
