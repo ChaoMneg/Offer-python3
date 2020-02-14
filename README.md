@@ -22,6 +22,7 @@
 04. [字符流中第一个不重复的字符](https://github.com/ChaoMneg/Offer-python3/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/String_FirstAppearingOnce.py)  
 05. [字符串的排列★](https://github.com/ChaoMneg/Offer-python3/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/String_Permutation.py)  
 06. [第一个只出现一次的字符](https://github.com/ChaoMneg/Offer-python3/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/String_FirstNotRep.py)  
+07. [翻转单词顺序列](https://github.com/ChaoMneg/Offer-python3/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/String_ReSentence.py)  
 
 ## 链表：  
 01. [复杂链表的复制](https://github.com/ChaoMneg/Offer-python3/blob/master/%E9%93%BE%E8%A1%A8/List_Clone.py)  
