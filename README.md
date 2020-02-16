@@ -35,6 +35,7 @@
 06. [反转链表](https://github.com/ChaoMneg/Offer-python3/blob/master/%E9%93%BE%E8%A1%A8/List_Reverse.py)  
 07. [删除链表中重复的结点](https://github.com/ChaoMneg/Offer-python3/blob/master/%E9%93%BE%E8%A1%A8/List_deleteDuplication.py)  
 08. [从尾到头打印链表](https://github.com/ChaoMneg/Offer-python3/blob/master/%E9%93%BE%E8%A1%A8/List_print.py)  
+09. [圆圈中最后剩下的数](https://github.com/ChaoMneg/Offer-python3/blob/master/%E9%93%BE%E8%A1%A8/List_LastRemaining.py)  
 
 ## 二叉树：  
 01. [对称的二叉树](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/Tree_Symmetrical.py)  
