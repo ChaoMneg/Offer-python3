@@ -75,3 +75,6 @@
 01. [二进制中1的个数](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/Bit_NumberOf1.py) 
 ## 代码的完整性：
 01. [数值的整数次方](https://github.com/ChaoMneg/Offer-python3/blob/master/%E4%BB%A3%E7%A0%81%E7%9A%84%E5%AE%8C%E6%95%B4%E6%80%A7/Num_Power.py) 
+
+## 发散思维能力：
+01. [求1+2+3+...+n](https://github.com/ChaoMneg/Offer-python3/blob/master/%E5%8F%91%E6%95%A3%E6%80%9D%E7%BB%B4%E8%83%BD%E5%8A%9B/Sum_Solution.py) 
