@@ -78,3 +78,4 @@
 
 ## 发散思维能力：
 01. [求1+2+3+...+n](https://github.com/ChaoMneg/Offer-python3/blob/master/%E5%8F%91%E6%95%A3%E6%80%9D%E7%BB%B4%E8%83%BD%E5%8A%9B/Sum_Solution.py) 
+02. [不用加减乘除做加法](https://github.com/ChaoMneg/Offer-python3/blob/master/%E5%8F%91%E6%95%A3%E6%80%9D%E7%BB%B4%E8%83%BD%E5%8A%9B/Add.py) 
